@@ -1,6 +1,6 @@
 I've decided to share my base, which I have been using for more than a year, for free.
 
-## [Discord 💥](http://bit.ly/3K1enRP)
+## [Discord 💥](https://discord.gg/DMGrefzPQn)
 
 ## Main
 
