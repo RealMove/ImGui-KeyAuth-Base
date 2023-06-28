@@ -4,7 +4,7 @@ I've decided to share my base, which I have been using for more than a year, for
 
 ## Main
 
-- Has an average protection
+- Has low-level protection
 - Some pretty imgui widgets
 - You can use it for literally every project
 - Using the latest keyauth library
