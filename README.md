@@ -19,5 +19,5 @@ I've decided to share my base, which I have been using for more than a year, for
 - Put your project in it
 
 ## Images
-![Login screen](https://cdn.discordapp.com/attachments/1010465174563594310/1086607793529819276/image.png)
-![Loaded imgui](https://media.discordapp.net/attachments/1010465174563594310/1086607793714372679/image.png)
+![Login screen](https://cdn.discordapp.com/attachments/1021077278752526427/1186671608702701568/image.png?ex=6594190e&is=6581a40e&hm=2bb42c14864521ac0c8367f467c06ad8be16a085fb54ad03d4c4f2ef0a65d404&)
+![Loaded imgui](https://cdn.discordapp.com/attachments/1021077278752526427/1186671653028106340/image.png?ex=65941919&is=6581a419&hm=2bfde8a45e14adb126750657c2cfbbc27823662d85ee8261d458eb326e03e555&)
