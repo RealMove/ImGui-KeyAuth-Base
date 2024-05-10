@@ -1,6 +1,7 @@
 I've decided to share my base, which I have been using for more than a year, for free.
 
-## [Discord 💥](https://discord.gg/DMGrefzPQn)
+## [Discord 💥](https://discord.gg/BbQCYa46tG)
+- You can contact me via my Discord server to buy simple/advanced codes etc. from me.
 
 ## Main
 
