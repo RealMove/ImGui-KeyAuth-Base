@@ -10,7 +10,7 @@
 #include "../protection/protection.h"
 #include "../login/login.hpp"
 #include "../login/color.hpp"
-// My discord server: https://discord.gg/aRBUv8K6Uh
+// My discord server: https://discord.gg/sJCHka4tGx
 
 int APIENTRY WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
