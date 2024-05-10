@@ -131,7 +131,7 @@ int APIENTRY WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
                 ImGui::SetNextWindowPos(ImVec2(0, 0), ImGuiCond_Once);
                 ImGui::SetNextWindowSize(ImVec2(400, 300));
                 ImGui::SetNextWindowBgAlpha(1.0f);
-                ImGui::Begin("Loader base by [RealMove#0001]", &loader_active, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoNav | ImGuiWindowFlags_NoSavedSettings | ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoBringToFrontOnFocus);
+                ImGui::Begin("Loader base by [Discord:realmove]", &loader_active, ImGuiWindowFlags_NoResize | ImGuiWindowFlags_NoNav | ImGuiWindowFlags_NoSavedSettings | ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoBringToFrontOnFocus);
                 {
                     ImGui::StyleColorsClassic(); // Purple theme
                     ImGui::TextColored(ImVec4(r - 0.15f, g - 0.35f, b, 1.0f), ("Loader Base"));
