@@ -1,4 +1,4 @@
-// Discord: RealMove#0001
+// Discord: realmove
 #include <iostream>
 #include <Windows.h>
 #include "window.h"
@@ -29,7 +29,7 @@ int APIENTRY WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
         std::string key;
         system("MODE CON COLS=55 LINES=12");
         SetLayeredWindowAttributes(GetConsoleWindow(), NULL, 195, LWA_ALPHA);
-        std::string consoleTitle = (std::string)skCrypt("Loader base by [RealMove#0001]");
+        std::string consoleTitle = (std::string)skCrypt("Loader base by [Discord:realmove]");
         SetConsoleTitleA(consoleTitle.c_str());
         ShowWindow(GetConsoleWindow(), SW_SHOW);
         std::cout << termcolor::bright_yellow << skCrypt("\n [!] Enter your license: ");
